@@ -101,6 +101,33 @@ def page(src):
         out.append(item(src['type'],src['name'],title,url,None,'url:'+url,{'url_date_hint':'-'.join(match.groups()),'date_type':'URL日期线索，非核实发布日期'}))
     if not out: return [],'未匹配到相关条目；可能是页面结构变化或无相关内容'
     return out,''
+def dataset_links(x):
+    m=x['metadata'];short=m.get('short_name','');version=str(m.get('version',''))
+    original=m.get('cmr_url') or x['url']
+    cid=m.get('concept_id') or original.rsplit('/',1)[-1].split('.')[0]
+    m['cmr_url']=original;m['concept_id']=cid
+    links=[]
+    def add(label,url):
+        if url and not any(v['url']==url for v in links): links.append({'label':label,'url':url})
+    exact_search='https://search.earthdata.nasa.gov/search?'+urlencode({'q':short})
+    if short=='GPM_3IMERGDF' and version in ('07','7'):
+        add('NASA GES DISC 产品说明','https://disc.gsfc.nasa.gov/datasets/GPM_3IMERGDF_07/summary')
+        add('NASA GPM 官方数据目录','https://gpm.nasa.gov/data/directory')
+    elif short=='MOD10A1' and version in ('61','061','7','007'):
+        v='7' if version in ('7','007') else '61'
+        add('NSIDC 对应版本产品说明','https://nsidc.org/data/mod10a1/versions/'+v)
+        if v=='61': m['version_note']='已有 Collection 7；旧版后续可能退役，按研究口径选择版本。'
+    elif short=='SPL3SMP' and version in ('009','9'):
+        add('NSIDC 对应版本产品说明','https://nsidc.org/data/spl3smp/versions/9')
+    elif short in ('MOD13Q1','MYD13Q1','MCD12Q1','MOD11A2','MOD16A2','MOD17A2H','MOD09A1') and version=='061':
+        add('Earthdata Search 产品检索（核对版本）',exact_search)
+        add('Earth Engine 对应版本数据说明','https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_'+short)
+    add('Earthdata Search 产品检索（核对版本）',exact_search)
+    add('CMR 原始元数据',original)
+    m['access_links']=links
+    m['access_note']='产品说明与原始数据下载不同；NASA 下载可能需要免费 Earthdata 登录。链接可达性受网络环境影响。'
+    x['url']=links[0]['url']
+
 def dataset(short):
     url='https://cmr.earthdata.nasa.gov/search/collections.json?'+urlencode({'short_name':short,'page_size':50})
     out=[]
@@ -137,6 +164,7 @@ def main():
     for src in CFG['pages']: run(src['name'],lambda:page(src))
     for short in CFG['datasets']: run('NASA '+short,lambda:dataset(short))
     for x in records.values():
+        if x['type']=='数据' and x['metadata'].get('short_name'): dataset_links(x)
         score,phrases=rank(x['title'])
         x['topics']=classify(x['title']) or x['topics']
         x['relevance']=score
