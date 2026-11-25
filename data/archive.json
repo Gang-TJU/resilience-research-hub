@@ -1,6 +1,25 @@
 {
   "items": [
     {
+      "id": "5287db5460ef05359f65c9c2",
+      "type": "新闻",
+      "source": "生态环境部新闻发布",
+      "title": "生态环境部公布2026年10月全国环境空气质量状况",
+      "url": "https://www.mee.gov.cn/ywdt/xwfb/202611/t20261125_1187368.shtml",
+      "date": null,
+      "topics": [
+        "生态系统服务与价值实现"
+      ],
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "metadata": {
+        "url_date_hint": "2026-11-25",
+        "date_type": "URL日期线索，非核实发布日期"
+      },
+      "relevance": 25,
+      "matched_phrases": []
+    },
+    {
       "id": "ea2dca82d362b3253ba574c1",
       "type": "文献",
       "source": "Journal of Environmental Management",
@@ -519,7 +538,7 @@
         "公共资源与治理"
       ],
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "metadata": {
         "url_date_hint": "2026-11-25",
         "date_type": "URL日期线索，非核实发布日期"
@@ -1951,7 +1970,7 @@
         "生态系统服务与价值实现"
       ],
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "metadata": {
         "url_date_hint": "2026-11-13",
         "date_type": "URL日期线索，非核实发布日期"
@@ -2323,7 +2342,7 @@
         "公共资源与治理"
       ],
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "metadata": {
         "url_date_hint": "2026-01-27",
         "date_type": "URL日期线索，非核实发布日期"
@@ -2453,7 +2472,7 @@
         "公共资源与治理"
       ],
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "metadata": {
         "url_date_hint": "2026-10-21",
         "date_type": "URL日期线索，非核实发布日期"
@@ -2649,7 +2668,7 @@
         "水—能源—粮食协同安全"
       ],
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "metadata": {
         "url_date_hint": "2026-07-17",
         "date_type": "URL日期线索，非核实发布日期"
@@ -2713,7 +2732,7 @@
         "公共资源与治理"
       ],
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "metadata": {
         "url_date_hint": "2026-11-20",
         "date_type": "URL日期线索，非核实发布日期"
@@ -2883,7 +2902,7 @@
         "生态系统服务与价值实现"
       ],
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "metadata": {
         "url_date_hint": "2026-11-22",
         "date_type": "URL日期线索，非核实发布日期"
@@ -2902,7 +2921,7 @@
         "公共资源与治理"
       ],
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "metadata": {
         "url_date_hint": "2026-02-12",
         "date_type": "URL日期线索，非核实发布日期"
@@ -2921,7 +2940,7 @@
         "生态系统服务与价值实现"
       ],
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "metadata": {
         "url_date_hint": "2026-10-26",
         "date_type": "URL日期线索，非核实发布日期"
@@ -3232,7 +3251,7 @@
         "公共资源与治理"
       ],
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "metadata": {
         "url_date_hint": "2026-11-24",
         "date_type": "URL日期线索，非核实发布日期"
@@ -3272,7 +3291,7 @@
         "生态系统服务与价值实现"
       ],
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "metadata": {
         "url_date_hint": "2026-11-13",
         "date_type": "URL日期线索，非核实发布日期"
@@ -3354,7 +3373,7 @@
         "生态系统服务与价值实现"
       ],
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "metadata": {
         "url_date_hint": "2026-07-13",
         "date_type": "URL日期线索，非核实发布日期"
@@ -3436,7 +3455,7 @@
         "生态系统服务与价值实现"
       ],
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "metadata": {
         "url_date_hint": "2026-11-16",
         "date_type": "URL日期线索，非核实发布日期"
@@ -3833,7 +3852,7 @@
         "城市生态与气候健康"
       ],
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "metadata": {
         "url_date_hint": "2026-11-13",
         "date_type": "URL日期线索，非核实发布日期"
@@ -4062,7 +4081,7 @@
         "生态系统服务与价值实现"
       ],
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "metadata": {
         "url_date_hint": "2026-08-10",
         "date_type": "URL日期线索，非核实发布日期"
@@ -4102,7 +4121,7 @@
         "公共资源与治理"
       ],
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "metadata": {
         "url_date_hint": "2026-07-14",
         "date_type": "URL日期线索，非核实发布日期"
@@ -4289,7 +4308,7 @@
         "生态系统服务与价值实现"
       ],
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "metadata": {
         "url_date_hint": "2026-11-17",
         "date_type": "URL日期线索，非核实发布日期"
@@ -4308,7 +4327,7 @@
         "公共资源与治理"
       ],
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "metadata": {
         "url_date_hint": "2026-11-12",
         "date_type": "URL日期线索，非核实发布日期"
@@ -4327,7 +4346,7 @@
         "公共资源与治理"
       ],
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "metadata": {
         "url_date_hint": "2026-11-24",
         "date_type": "URL日期线索，非核实发布日期"
@@ -4409,7 +4428,7 @@
         "公共资源与治理"
       ],
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "metadata": {
         "url_date_hint": "2026-11-17",
         "date_type": "URL日期线索，非核实发布日期"
@@ -4554,7 +4573,7 @@
         "生态系统服务与价值实现"
       ],
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "metadata": {
         "url_date_hint": "2026-11-25",
         "date_type": "URL日期线索，非核实发布日期"
@@ -4573,7 +4592,7 @@
         "城市生态与气候健康"
       ],
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "metadata": {
         "short_name": "MYD13Q1",
         "version": "061",
@@ -4799,7 +4818,7 @@
         "生态系统服务与价值实现"
       ],
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "metadata": {
         "url_date_hint": "2026-08-25",
         "date_type": "URL日期线索，非核实发布日期"
@@ -4881,7 +4900,7 @@
         "生态系统服务与价值实现"
       ],
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "metadata": {
         "url_date_hint": "2026-11-21",
         "date_type": "URL日期线索，非核实发布日期"
@@ -4942,7 +4961,7 @@
         "城市生态与气候健康"
       ],
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "metadata": {
         "url_date_hint": "2026-11-12",
         "date_type": "URL日期线索，非核实发布日期"
@@ -5024,7 +5043,7 @@
         "生态系统服务与价值实现"
       ],
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "metadata": {
         "url_date_hint": "2026-04-08",
         "date_type": "URL日期线索，非核实发布日期"
@@ -5085,7 +5104,7 @@
         "生态系统服务与价值实现"
       ],
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "metadata": {
         "url_date_hint": "2026-10-31",
         "date_type": "URL日期线索，非核实发布日期"
@@ -5125,7 +5144,7 @@
         "城市生态与气候健康"
       ],
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "metadata": {
         "short_name": "MOD13Q1",
         "version": "061",
@@ -5685,7 +5704,7 @@
         "公共资源与治理"
       ],
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "metadata": {
         "url_date_hint": "2026-11-16",
         "date_type": "URL日期线索，非核实发布日期"
@@ -5809,7 +5828,7 @@
         "城市生态与气候健康"
       ],
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "metadata": {
         "url_date_hint": "2026-11-23",
         "date_type": "URL日期线索，非核实发布日期"
@@ -6038,7 +6057,7 @@
         "公共资源与治理"
       ],
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "metadata": {
         "url_date_hint": "2026-11-17",
         "date_type": "URL日期线索，非核实发布日期"
@@ -6057,7 +6076,7 @@
         "生态系统服务与价值实现"
       ],
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "metadata": {
         "url_date_hint": "2026-11-23",
         "date_type": "URL日期线索，非核实发布日期"
@@ -6265,7 +6284,7 @@
         "生态系统服务与价值实现"
       ],
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "metadata": {
         "url_date_hint": "2026-11-23",
         "date_type": "URL日期线索，非核实发布日期"
@@ -6326,7 +6345,7 @@
         "自然灾害风险治理"
       ],
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "metadata": {
         "url_date_hint": "2026-11-17",
         "date_type": "URL日期线索，非核实发布日期"
@@ -6387,7 +6406,7 @@
         "城市生态与气候健康"
       ],
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "metadata": {
         "url_date_hint": "2026-07-29",
         "date_type": "URL日期线索，非核实发布日期"
@@ -6448,7 +6467,7 @@
         "自然灾害风险治理"
       ],
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "metadata": {
         "url_date_hint": "2025-02-26",
         "date_type": "URL日期线索，非核实发布日期"
@@ -6488,7 +6507,7 @@
         "生态系统服务与价值实现"
       ],
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "metadata": {
         "url_date_hint": "2026-10-29",
         "date_type": "URL日期线索，非核实发布日期"
@@ -6822,7 +6841,7 @@
         "公共资源与治理"
       ],
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "metadata": {
         "url_date_hint": "2026-11-16",
         "date_type": "URL日期线索，非核实发布日期"
@@ -6841,7 +6860,7 @@
         "公共资源与治理"
       ],
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "metadata": {
         "url_date_hint": "2026-05-07",
         "date_type": "URL日期线索，非核实发布日期"
@@ -7007,7 +7026,7 @@
         "生态系统服务与价值实现"
       ],
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "metadata": {
         "url_date_hint": "2026-11-23",
         "date_type": "URL日期线索，非核实发布日期"
@@ -7236,7 +7255,7 @@
         "城市生态与气候健康"
       ],
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "metadata": {
         "url_date_hint": "2026-11-23",
         "date_type": "URL日期线索，非核实发布日期"
@@ -7276,7 +7295,7 @@
         "生态系统服务与价值实现"
       ],
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "metadata": {
         "url_date_hint": "2026-08-27",
         "date_type": "URL日期线索，非核实发布日期"
@@ -7400,7 +7419,7 @@
         "城市生态与气候健康"
       ],
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "metadata": {
         "url_date_hint": "2026-11-11",
         "date_type": "URL日期线索，非核实发布日期"
@@ -7713,7 +7732,7 @@
         "公共资源与治理"
       ],
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "metadata": {
         "url_date_hint": "2026-11-17",
         "date_type": "URL日期线索，非核实发布日期"
@@ -7795,7 +7814,7 @@
         "生态系统服务与价值实现"
       ],
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "metadata": {
         "url_date_hint": "2026-11-22",
         "date_type": "URL日期线索，非核实发布日期"
@@ -7814,7 +7833,7 @@
         "生态系统服务与价值实现"
       ],
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "metadata": {
         "url_date_hint": "2026-11-18",
         "date_type": "URL日期线索，非核实发布日期"
@@ -7917,7 +7936,7 @@
         "生态系统服务与价值实现"
       ],
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "metadata": {
         "url_date_hint": "2026-11-20",
         "date_type": "URL日期线索，非核实发布日期"
@@ -7958,7 +7977,7 @@
         "城市生态与气候健康"
       ],
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "metadata": {
         "short_name": "MOD11A2",
         "version": "061",
@@ -7996,7 +8015,7 @@
         "城市生态与气候健康"
       ],
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "metadata": {
         "short_name": "MOD16A2",
         "version": "061",
@@ -8034,7 +8053,7 @@
         "城市生态与气候健康"
       ],
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "metadata": {
         "short_name": "MOD10A1",
         "version": "61",
@@ -8073,7 +8092,7 @@
         "城市生态与气候健康"
       ],
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "metadata": {
         "short_name": "MCD12Q1",
         "version": "061",
@@ -8110,7 +8129,7 @@
         "自然灾害风险治理"
       ],
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "metadata": {
         "short_name": "GPM_3IMERGDF",
         "version": "07",
@@ -8152,7 +8171,7 @@
         "城市生态与气候健康"
       ],
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "metadata": {
         "short_name": "MOD10A1",
         "version": "7",
@@ -8189,7 +8208,7 @@
         "自然灾害风险治理"
       ],
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "metadata": {
         "short_name": "SPL3SMP",
         "version": "009",
@@ -8227,7 +8246,7 @@
         "城市生态与气候健康"
       ],
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "metadata": {
         "short_name": "MOD09A1",
         "version": "061",
@@ -8265,7 +8284,7 @@
         "城市生态与气候健康"
       ],
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "metadata": {
         "short_name": "MOD17A2H",
         "version": "061",
@@ -9069,11 +9088,305 @@
         }
       ],
       "new": 0
+    },
+    {
+      "date": "2026-11-26",
+      "checked_at": "2026-11-25T19:31:52+00:00",
+      "sources": [
+        {
+          "source": "Nature",
+          "status": "failed",
+          "matched": 0,
+          "new": 0,
+          "note": "HTTP Error 400: Bad Request"
+        },
+        {
+          "source": "Science",
+          "status": "failed",
+          "matched": 0,
+          "new": 0,
+          "note": "HTTP Error 400: Bad Request"
+        },
+        {
+          "source": "Nature Water",
+          "status": "failed",
+          "matched": 0,
+          "new": 0,
+          "note": "HTTP Error 400: Bad Request"
+        },
+        {
+          "source": "Nature Sustainability",
+          "status": "failed",
+          "matched": 0,
+          "new": 0,
+          "note": "HTTP Error 400: Bad Request"
+        },
+        {
+          "source": "Nature Climate Change",
+          "status": "failed",
+          "matched": 0,
+          "new": 0,
+          "note": "HTTP Error 400: Bad Request"
+        },
+        {
+          "source": "Water Resources Research",
+          "status": "failed",
+          "matched": 0,
+          "new": 0,
+          "note": "HTTP Error 400: Bad Request"
+        },
+        {
+          "source": "Water Research",
+          "status": "failed",
+          "matched": 0,
+          "new": 0,
+          "note": "HTTP Error 400: Bad Request"
+        },
+        {
+          "source": "Journal of Hydrology",
+          "status": "failed",
+          "matched": 0,
+          "new": 0,
+          "note": "HTTP Error 400: Bad Request"
+        },
+        {
+          "source": "Hydrology and Earth System Sciences",
+          "status": "failed",
+          "matched": 0,
+          "new": 0,
+          "note": "HTTP Error 400: Bad Request"
+        },
+        {
+          "source": "Environmental Research Letters",
+          "status": "failed",
+          "matched": 0,
+          "new": 0,
+          "note": "HTTP Error 400: Bad Request"
+        },
+        {
+          "source": "Ecosystem Services",
+          "status": "failed",
+          "matched": 0,
+          "new": 0,
+          "note": "HTTP Error 400: Bad Request"
+        },
+        {
+          "source": "Journal of Environmental Management",
+          "status": "failed",
+          "matched": 0,
+          "new": 0,
+          "note": "HTTP Error 400: Bad Request"
+        },
+        {
+          "source": "Global Environmental Change",
+          "status": "failed",
+          "matched": 0,
+          "new": 0,
+          "note": "HTTP Error 400: Bad Request"
+        },
+        {
+          "source": "Scientific Data",
+          "status": "failed",
+          "matched": 0,
+          "new": 0,
+          "note": "HTTP Error 400: Bad Request"
+        },
+        {
+          "source": "Nature Communications",
+          "status": "failed",
+          "matched": 0,
+          "new": 0,
+          "note": "HTTP Error 400: Bad Request"
+        },
+        {
+          "source": "Science Advances",
+          "status": "failed",
+          "matched": 0,
+          "new": 0,
+          "note": "HTTP Error 400: Bad Request"
+        },
+        {
+          "source": "PNAS",
+          "status": "failed",
+          "matched": 0,
+          "new": 0,
+          "note": "HTTP Error 400: Bad Request"
+        },
+        {
+          "source": "Landscape and Urban Planning",
+          "status": "failed",
+          "matched": 0,
+          "new": 0,
+          "note": "HTTP Error 400: Bad Request"
+        },
+        {
+          "source": "Environmental Science & Technology",
+          "status": "failed",
+          "matched": 0,
+          "new": 0,
+          "note": "HTTP Error 400: Bad Request"
+        },
+        {
+          "source": "Nature Geoscience",
+          "status": "failed",
+          "matched": 0,
+          "new": 0,
+          "note": "HTTP Error 400: Bad Request"
+        },
+        {
+          "source": "Earth System Science Data",
+          "status": "failed",
+          "matched": 0,
+          "new": 0,
+          "note": "HTTP Error 400: Bad Request"
+        },
+        {
+          "source": "Ecological Economics",
+          "status": "failed",
+          "matched": 0,
+          "new": 0,
+          "note": "HTTP Error 400: Bad Request"
+        },
+        {
+          "source": "Natural Hazards",
+          "status": "failed",
+          "matched": 0,
+          "new": 0,
+          "note": "HTTP Error 400: Bad Request"
+        },
+        {
+          "source": "生态环境部政策文件",
+          "status": "ok",
+          "matched": 9,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "北京市政府转载国务院文件",
+          "status": "ok",
+          "matched": 6,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "生态环境部新闻发布",
+          "status": "ok",
+          "matched": 49,
+          "new": 1,
+          "note": ""
+        },
+        {
+          "source": "应急管理部通知公告",
+          "status": "warning",
+          "matched": 0,
+          "new": 0,
+          "note": "未匹配到相关条目；可能是页面结构变化或无相关内容"
+        },
+        {
+          "source": "应急管理部新闻发布会",
+          "status": "warning",
+          "matched": 0,
+          "new": 0,
+          "note": "未匹配到相关条目；可能是页面结构变化或无相关内容"
+        },
+        {
+          "source": "国家发展改革委政策发布",
+          "status": "failed",
+          "matched": 0,
+          "new": 0,
+          "note": "HTTP Error 403: Forbidden"
+        },
+        {
+          "source": "水利部水利要闻（待验证）",
+          "status": "failed",
+          "matched": 0,
+          "new": 0,
+          "note": "<urlopen error [Errno 101] Network is unreachable>"
+        },
+        {
+          "source": "生态环境部中央有关文件",
+          "status": "ok",
+          "matched": 3,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "NASA MOD13Q1",
+          "status": "ok",
+          "matched": 1,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "NASA MYD13Q1",
+          "status": "ok",
+          "matched": 1,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "NASA MCD12Q1",
+          "status": "ok",
+          "matched": 1,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "NASA MOD11A2",
+          "status": "ok",
+          "matched": 1,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "NASA GPM_3IMERGDF",
+          "status": "ok",
+          "matched": 1,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "NASA MOD10A1",
+          "status": "ok",
+          "matched": 2,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "NASA MOD16A2",
+          "status": "ok",
+          "matched": 1,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "NASA MOD17A2H",
+          "status": "ok",
+          "matched": 1,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "NASA MOD09A1",
+          "status": "ok",
+          "matched": 1,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "NASA SPL3SMP",
+          "status": "ok",
+          "matched": 1,
+          "new": 0,
+          "note": ""
+        }
+      ],
+      "new": 1
     }
   ],
   "latest": {
-    "date": "2026-11-25",
-    "checked_at": "2026-11-25T06:10:25+00:00",
+    "date": "2026-11-26",
+    "checked_at": "2026-11-25T19:31:52+00:00",
     "sources": [
       {
         "source": "Nature",
@@ -9254,7 +9567,7 @@
         "source": "生态环境部新闻发布",
         "status": "ok",
         "matched": 49,
-        "new": 0,
+        "new": 1,
         "note": ""
       },
       {
@@ -9363,7 +9676,7 @@
         "note": ""
       }
     ],
-    "new": 0
+    "new": 1
   },
   "method": "题名关键词筛选和规则相关性评分（不是学术质量评分）；非AI导读；日期与来源范围见元数据。"
 }
