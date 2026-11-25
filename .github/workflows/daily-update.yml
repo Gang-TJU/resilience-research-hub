@@ -14,13 +14,15 @@ jobs:
   collect:
     if: ${{ github.event.repository.visibility == 'public' }}
     runs-on: ubuntu-latest
-    timeout-minutes: 25
+    timeout-minutes: 35
     permissions:
       contents: write
     steps:
       - uses: actions/checkout@v4
       - name: Collect public metadata
-        run: python3 collect.py
+        run: |
+          python3 -m py_compile collect.py
+          python3 collect.py
       - name: Validate and archive
         run: |
           python3 -c "import json; d=json.load(open('data/archive.json')); assert len({x['id'] for x in d['items']})==len(d['items']); assert any(x['status']!='failed' for x in d['latest']['sources']), 'All sources failed'"

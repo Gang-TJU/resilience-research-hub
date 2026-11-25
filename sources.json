@@ -34,7 +34,7 @@
     ],
     [
       "Hydrology and Earth System Sciences",
-      "1027-5606"
+      "1607-7938"
     ],
     [
       "Environmental Research Letters",
@@ -71,6 +71,26 @@
     [
       "Landscape and Urban Planning",
       "0169-2046"
+    ],
+    [
+      "Environmental Science & Technology",
+      "0013-936X"
+    ],
+    [
+      "Nature Geoscience",
+      "1752-0894"
+    ],
+    [
+      "Earth System Science Data",
+      "1866-3516"
+    ],
+    [
+      "Ecological Economics",
+      "0921-8009"
+    ],
+    [
+      "Natural Hazards",
+      "0921-030X"
     ]
   ],
   "pages": [
@@ -91,6 +111,36 @@
       "type": "新闻",
       "url": "https://www.mee.gov.cn/ywdt/",
       "host": "www.mee.gov.cn"
+    },
+    {
+      "name": "应急管理部通知公告",
+      "type": "政策",
+      "url": "https://www.mem.gov.cn/gk/tzgg/",
+      "host": "www.mem.gov.cn"
+    },
+    {
+      "name": "应急管理部新闻发布会",
+      "type": "新闻",
+      "url": "https://www.mem.gov.cn/xw/xwfbh/",
+      "host": "www.mem.gov.cn"
+    },
+    {
+      "name": "国家发展改革委政策发布",
+      "type": "政策",
+      "url": "https://www.ndrc.gov.cn/xxgk/zcfb/",
+      "host": "www.ndrc.gov.cn"
+    },
+    {
+      "name": "水利部水利要闻（待验证）",
+      "type": "新闻",
+      "url": "https://www.mwr.gov.cn/xw/slyw/",
+      "host": "www.mwr.gov.cn"
+    },
+    {
+      "name": "生态环境部中央有关文件",
+      "type": "政策",
+      "url": "https://www.mee.gov.cn/zcwj/zyygwj/",
+      "host": "www.mee.gov.cn"
     }
   ],
   "datasets": [
@@ -98,7 +148,12 @@
     "MYD13Q1",
     "MCD12Q1",
     "MOD11A2",
-    "GPM_3IMERGDF"
+    "GPM_3IMERGDF",
+    "MOD10A1",
+    "MOD16A2",
+    "MOD17A2H",
+    "MOD09A1",
+    "SPL3SMP"
   ],
   "topics": {
     "重大水工程与生态韧性": [
@@ -141,7 +196,16 @@
       "旱",
       "灾害",
       "应急",
-      "风险"
+      "风险",
+      "compound hazard",
+      "early warning",
+      "glacial lake outburst",
+      "暴雨",
+      "内涝",
+      "预警",
+      "冰湖溃坝",
+      "防灾",
+      "减灾"
     ],
     "水—能源—粮食协同安全": [
       "water security",
@@ -167,7 +231,14 @@
       "城市",
       "气候",
       "绿度",
-      "健康"
+      "健康",
+      "green space",
+      "greenness",
+      "urban heat",
+      "heat stress",
+      "绿地",
+      "热暴露",
+      "热岛"
     ],
     "公共资源与治理": [
       "governance",
@@ -177,7 +248,51 @@
       "治理",
       "政策",
       "水权",
-      "管理"
+      "管理",
+      "public administration",
+      "public policy",
+      "resource allocation",
+      "自然资源",
+      "资源安全",
+      "资源节约",
+      "韧性",
+      "防汛",
+      "抗旱"
     ]
-  }
+  },
+  "priority_phrases": [
+    "ecosystem service",
+    "environmental flow",
+    "hydropower",
+    "river basin",
+    "reservoir",
+    "streamflow",
+    "water allocation",
+    "water rights",
+    "water scarcity",
+    "water security",
+    "compound flood",
+    "compound drought",
+    "glacial lake outburst",
+    "urban greening",
+    "urban green space",
+    "heat exposure",
+    "water-energy",
+    "ecological resilience",
+    "生态补偿",
+    "生态产品",
+    "生态流量",
+    "水库",
+    "水网",
+    "水权",
+    "水资源",
+    "洪涝",
+    "旱涝",
+    "冰湖",
+    "防汛",
+    "抗旱",
+    "城市绿地",
+    "热暴露",
+    "韧性"
+  ]
 }
