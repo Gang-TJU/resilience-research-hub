@@ -109,7 +109,14 @@
       "水电",
       "水网",
       "流域",
-      "生态流量"
+      "生态流量",
+      "streamflow",
+      "environmental flow",
+      "river restoration",
+      "dam operation",
+      "水利",
+      "径流",
+      "河流"
     ],
     "生态系统服务与价值实现": [
       "ecosystem service",
@@ -117,7 +124,12 @@
       "ecological",
       "生态",
       "生物多样性",
-      "植被"
+      "植被",
+      "ecosystem services",
+      "ecosystem restoration",
+      "natural capital",
+      "生态补偿",
+      "生态产品"
     ],
     "自然灾害风险治理": [
       "flood",
@@ -139,7 +151,13 @@
       "水资源",
       "供水",
       "节水",
-      "粮食"
+      "粮食",
+      "water resources",
+      "groundwater",
+      "water allocation",
+      "water scarcity",
+      "地下水",
+      "水资源配置"
     ],
     "城市生态与气候健康": [
       "urban",
