@@ -1,0 +1,165 @@
+{
+  "journals": [
+    [
+      "Nature",
+      "0028-0836"
+    ],
+    [
+      "Science",
+      "0036-8075"
+    ],
+    [
+      "Nature Water",
+      "2731-6084"
+    ],
+    [
+      "Nature Sustainability",
+      "2398-9629"
+    ],
+    [
+      "Nature Climate Change",
+      "1758-678X"
+    ],
+    [
+      "Water Resources Research",
+      "0043-1397"
+    ],
+    [
+      "Water Research",
+      "0043-1354"
+    ],
+    [
+      "Journal of Hydrology",
+      "0022-1694"
+    ],
+    [
+      "Hydrology and Earth System Sciences",
+      "1027-5606"
+    ],
+    [
+      "Environmental Research Letters",
+      "1748-9326"
+    ],
+    [
+      "Ecosystem Services",
+      "2212-0416"
+    ],
+    [
+      "Journal of Environmental Management",
+      "0301-4797"
+    ],
+    [
+      "Global Environmental Change",
+      "0959-3780"
+    ],
+    [
+      "Scientific Data",
+      "2052-4463"
+    ],
+    [
+      "Nature Communications",
+      "2041-1723"
+    ],
+    [
+      "Science Advances",
+      "2375-2548"
+    ],
+    [
+      "PNAS",
+      "0027-8424"
+    ],
+    [
+      "Landscape and Urban Planning",
+      "0169-2046"
+    ]
+  ],
+  "pages": [
+    {
+      "name": "生态环境部政策文件",
+      "type": "政策",
+      "url": "https://www.mee.gov.cn/zcwj/bwj/wj/index.shtml",
+      "host": "www.mee.gov.cn"
+    },
+    {
+      "name": "北京市政府转载国务院文件",
+      "type": "政策",
+      "url": "https://www.beijing.gov.cn/zhengce/gwywj/",
+      "host": "www.beijing.gov.cn"
+    },
+    {
+      "name": "生态环境部新闻发布",
+      "type": "新闻",
+      "url": "https://www.mee.gov.cn/ywdt/",
+      "host": "www.mee.gov.cn"
+    }
+  ],
+  "datasets": [
+    "MOD13Q1",
+    "MYD13Q1",
+    "MCD12Q1",
+    "MOD11A2",
+    "GPM_3IMERGDF"
+  ],
+  "topics": {
+    "重大水工程与生态韧性": [
+      "reservoir",
+      "hydropower",
+      "river basin",
+      "水库",
+      "水电",
+      "水网",
+      "流域",
+      "生态流量"
+    ],
+    "生态系统服务与价值实现": [
+      "ecosystem service",
+      "biodiversity",
+      "ecological",
+      "生态",
+      "生物多样性",
+      "植被"
+    ],
+    "自然灾害风险治理": [
+      "flood",
+      "drought",
+      "disaster",
+      "hazard",
+      "risk",
+      "洪",
+      "旱",
+      "灾害",
+      "应急",
+      "风险"
+    ],
+    "水—能源—粮食协同安全": [
+      "water security",
+      "food security",
+      "water-energy",
+      "irrigation",
+      "水资源",
+      "供水",
+      "节水",
+      "粮食"
+    ],
+    "城市生态与气候健康": [
+      "urban",
+      "heat exposure",
+      "climate",
+      "vegetation",
+      "城市",
+      "气候",
+      "绿度",
+      "健康"
+    ],
+    "公共资源与治理": [
+      "governance",
+      "policy",
+      "water rights",
+      "management",
+      "治理",
+      "政策",
+      "水权",
+      "管理"
+    ]
+  }
+}
