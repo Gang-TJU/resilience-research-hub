@@ -9382,11 +9382,305 @@
         }
       ],
       "new": 1
+    },
+    {
+      "date": "2026-11-26",
+      "checked_at": "2026-11-26T03:34:46+00:00",
+      "sources": [
+        {
+          "source": "Nature",
+          "status": "failed",
+          "matched": 0,
+          "new": 0,
+          "note": "HTTP Error 400: Bad Request"
+        },
+        {
+          "source": "Science",
+          "status": "failed",
+          "matched": 0,
+          "new": 0,
+          "note": "HTTP Error 400: Bad Request"
+        },
+        {
+          "source": "Nature Water",
+          "status": "failed",
+          "matched": 0,
+          "new": 0,
+          "note": "HTTP Error 400: Bad Request"
+        },
+        {
+          "source": "Nature Sustainability",
+          "status": "failed",
+          "matched": 0,
+          "new": 0,
+          "note": "HTTP Error 400: Bad Request"
+        },
+        {
+          "source": "Nature Climate Change",
+          "status": "failed",
+          "matched": 0,
+          "new": 0,
+          "note": "HTTP Error 400: Bad Request"
+        },
+        {
+          "source": "Water Resources Research",
+          "status": "failed",
+          "matched": 0,
+          "new": 0,
+          "note": "HTTP Error 400: Bad Request"
+        },
+        {
+          "source": "Water Research",
+          "status": "failed",
+          "matched": 0,
+          "new": 0,
+          "note": "HTTP Error 400: Bad Request"
+        },
+        {
+          "source": "Journal of Hydrology",
+          "status": "failed",
+          "matched": 0,
+          "new": 0,
+          "note": "HTTP Error 400: Bad Request"
+        },
+        {
+          "source": "Hydrology and Earth System Sciences",
+          "status": "failed",
+          "matched": 0,
+          "new": 0,
+          "note": "HTTP Error 400: Bad Request"
+        },
+        {
+          "source": "Environmental Research Letters",
+          "status": "failed",
+          "matched": 0,
+          "new": 0,
+          "note": "HTTP Error 400: Bad Request"
+        },
+        {
+          "source": "Ecosystem Services",
+          "status": "failed",
+          "matched": 0,
+          "new": 0,
+          "note": "HTTP Error 400: Bad Request"
+        },
+        {
+          "source": "Journal of Environmental Management",
+          "status": "failed",
+          "matched": 0,
+          "new": 0,
+          "note": "HTTP Error 400: Bad Request"
+        },
+        {
+          "source": "Global Environmental Change",
+          "status": "failed",
+          "matched": 0,
+          "new": 0,
+          "note": "HTTP Error 400: Bad Request"
+        },
+        {
+          "source": "Scientific Data",
+          "status": "failed",
+          "matched": 0,
+          "new": 0,
+          "note": "HTTP Error 400: Bad Request"
+        },
+        {
+          "source": "Nature Communications",
+          "status": "failed",
+          "matched": 0,
+          "new": 0,
+          "note": "HTTP Error 400: Bad Request"
+        },
+        {
+          "source": "Science Advances",
+          "status": "failed",
+          "matched": 0,
+          "new": 0,
+          "note": "HTTP Error 400: Bad Request"
+        },
+        {
+          "source": "PNAS",
+          "status": "failed",
+          "matched": 0,
+          "new": 0,
+          "note": "HTTP Error 400: Bad Request"
+        },
+        {
+          "source": "Landscape and Urban Planning",
+          "status": "failed",
+          "matched": 0,
+          "new": 0,
+          "note": "HTTP Error 400: Bad Request"
+        },
+        {
+          "source": "Environmental Science & Technology",
+          "status": "failed",
+          "matched": 0,
+          "new": 0,
+          "note": "HTTP Error 400: Bad Request"
+        },
+        {
+          "source": "Nature Geoscience",
+          "status": "failed",
+          "matched": 0,
+          "new": 0,
+          "note": "HTTP Error 400: Bad Request"
+        },
+        {
+          "source": "Earth System Science Data",
+          "status": "failed",
+          "matched": 0,
+          "new": 0,
+          "note": "HTTP Error 400: Bad Request"
+        },
+        {
+          "source": "Ecological Economics",
+          "status": "failed",
+          "matched": 0,
+          "new": 0,
+          "note": "HTTP Error 400: Bad Request"
+        },
+        {
+          "source": "Natural Hazards",
+          "status": "failed",
+          "matched": 0,
+          "new": 0,
+          "note": "HTTP Error 400: Bad Request"
+        },
+        {
+          "source": "生态环境部政策文件",
+          "status": "ok",
+          "matched": 9,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "北京市政府转载国务院文件",
+          "status": "ok",
+          "matched": 6,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "生态环境部新闻发布",
+          "status": "ok",
+          "matched": 49,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "应急管理部通知公告",
+          "status": "warning",
+          "matched": 0,
+          "new": 0,
+          "note": "未匹配到相关条目；可能是页面结构变化或无相关内容"
+        },
+        {
+          "source": "应急管理部新闻发布会",
+          "status": "warning",
+          "matched": 0,
+          "new": 0,
+          "note": "未匹配到相关条目；可能是页面结构变化或无相关内容"
+        },
+        {
+          "source": "国家发展改革委政策发布",
+          "status": "failed",
+          "matched": 0,
+          "new": 0,
+          "note": "HTTP Error 403: Forbidden"
+        },
+        {
+          "source": "水利部水利要闻（待验证）",
+          "status": "failed",
+          "matched": 0,
+          "new": 0,
+          "note": "<urlopen error [Errno 101] Network is unreachable>"
+        },
+        {
+          "source": "生态环境部中央有关文件",
+          "status": "ok",
+          "matched": 3,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "NASA MOD13Q1",
+          "status": "ok",
+          "matched": 1,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "NASA MYD13Q1",
+          "status": "ok",
+          "matched": 1,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "NASA MCD12Q1",
+          "status": "ok",
+          "matched": 1,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "NASA MOD11A2",
+          "status": "ok",
+          "matched": 1,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "NASA GPM_3IMERGDF",
+          "status": "ok",
+          "matched": 1,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "NASA MOD10A1",
+          "status": "ok",
+          "matched": 2,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "NASA MOD16A2",
+          "status": "ok",
+          "matched": 1,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "NASA MOD17A2H",
+          "status": "ok",
+          "matched": 1,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "NASA MOD09A1",
+          "status": "ok",
+          "matched": 1,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "NASA SPL3SMP",
+          "status": "ok",
+          "matched": 1,
+          "new": 0,
+          "note": ""
+        }
+      ],
+      "new": 0
     }
   ],
   "latest": {
     "date": "2026-11-26",
-    "checked_at": "2026-11-25T19:31:52+00:00",
+    "checked_at": "2026-11-26T03:34:46+00:00",
     "sources": [
       {
         "source": "Nature",
@@ -9567,7 +9861,7 @@
         "source": "生态环境部新闻发布",
         "status": "ok",
         "matched": 49,
-        "new": 1,
+        "new": 0,
         "note": ""
       },
       {
@@ -9676,7 +9970,7 @@
         "note": ""
       }
     ],
-    "new": 1
+    "new": 0
   },
   "method": "题名关键词筛选和规则相关性评分（不是学术质量评分）；非AI导读；日期与来源范围见元数据。"
 }
