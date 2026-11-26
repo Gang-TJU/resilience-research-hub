@@ -49,7 +49,7 @@ def papers(name,issn):
     base='https://api.crossref.org/journals/'+issn+'/works?'
     out=[];cursor='*';note='';scanned=0
     for page_no in range(6):
-        params={'filter':'from-pub-date:'+WINDOW,'sort':'published','order':'desc','rows':200,'cursor':cursor,'select':'DOI,title,published,published-online,published-print,container-title,type,author,license'}
+        params={'filter':'from-pub-date:'+WINDOW,'rows':200,'cursor':cursor,'select':'DOI,title,published,published-online,published-print,container-title,type,author,license'}
         try:
             data=json.loads(get(base+urlencode(params)))['message']
         except Exception as e:
