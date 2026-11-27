@@ -1,0 +1,436 @@
+{
+  "central": [
+    {
+      "name": "国务院",
+      "url": "https://www.gov.cn/zhengce/index.htm",
+      "region": "全国",
+      "department": "国务院"
+    },
+    {
+      "name": "国务院政策文件库",
+      "url": "https://sousuo.www.gov.cn/zcwjk/policyDocumentLibrary",
+      "region": "全国",
+      "department": "国务院政策文件库"
+    },
+    {
+      "name": "国家发展改革委",
+      "url": "https://www.ndrc.gov.cn/xxgk/zcfb/",
+      "region": "全国",
+      "department": "国家发展改革委"
+    },
+    {
+      "name": "水利部",
+      "url": "https://www.mwr.gov.cn/zw/",
+      "region": "全国",
+      "department": "水利部"
+    },
+    {
+      "name": "水利部太湖流域管理局（部规章转载）",
+      "url": "https://www.tba.gov.cn/slbthlyglj/slbgzjgfxwj/slbgzjgfxwj.html",
+      "region": "全国",
+      "department": "水利部太湖流域管理局（部规章转载）"
+    },
+    {
+      "name": "生态环境部",
+      "url": "https://www.mee.gov.cn/zcwj/",
+      "region": "全国",
+      "department": "生态环境部"
+    },
+    {
+      "name": "自然资源部",
+      "url": "https://www.mnr.gov.cn/zwgk/",
+      "region": "全国",
+      "department": "自然资源部"
+    },
+    {
+      "name": "应急管理部",
+      "url": "https://www.mem.gov.cn/gk/tzgg/",
+      "region": "全国",
+      "department": "应急管理部"
+    },
+    {
+      "name": "农业农村部",
+      "url": "https://www.moa.gov.cn/gk/",
+      "region": "全国",
+      "department": "农业农村部"
+    },
+    {
+      "name": "国家法律法规数据库",
+      "url": "https://flk.npc.gov.cn/",
+      "region": "全国",
+      "department": "国家法律法规数据库"
+    }
+  ],
+  "provinces": [
+    {
+      "region": "北京",
+      "name": "北京政府门户",
+      "url": "https://www.beijing.gov.cn/",
+      "department": "省级政府"
+    },
+    {
+      "region": "天津",
+      "name": "天津政府门户",
+      "url": "https://www.tj.gov.cn/",
+      "department": "省级政府"
+    },
+    {
+      "region": "河北",
+      "name": "河北政府门户",
+      "url": "https://www.hebei.gov.cn/",
+      "department": "省级政府"
+    },
+    {
+      "region": "山西",
+      "name": "山西政府门户",
+      "url": "https://www.shanxi.gov.cn/",
+      "department": "省级政府"
+    },
+    {
+      "region": "内蒙古",
+      "name": "内蒙古政府门户",
+      "url": "https://www.nmg.gov.cn/",
+      "department": "省级政府"
+    },
+    {
+      "region": "辽宁",
+      "name": "辽宁政府门户",
+      "url": "https://www.ln.gov.cn/",
+      "department": "省级政府"
+    },
+    {
+      "region": "吉林",
+      "name": "吉林政府门户",
+      "url": "https://www.jl.gov.cn/",
+      "department": "省级政府"
+    },
+    {
+      "region": "黑龙江",
+      "name": "黑龙江政府门户",
+      "url": "https://www.hlj.gov.cn/",
+      "department": "省级政府"
+    },
+    {
+      "region": "上海",
+      "name": "上海政府门户",
+      "url": "https://www.shanghai.gov.cn/",
+      "department": "省级政府"
+    },
+    {
+      "region": "江苏",
+      "name": "江苏政府门户",
+      "url": "https://www.jiangsu.gov.cn/",
+      "department": "省级政府"
+    },
+    {
+      "region": "浙江",
+      "name": "浙江政府门户",
+      "url": "https://www.zj.gov.cn/",
+      "department": "省级政府"
+    },
+    {
+      "region": "安徽",
+      "name": "安徽政府门户",
+      "url": "https://www.ah.gov.cn/",
+      "department": "省级政府"
+    },
+    {
+      "region": "福建",
+      "name": "福建政府门户",
+      "url": "https://www.fujian.gov.cn/",
+      "department": "省级政府"
+    },
+    {
+      "region": "江西",
+      "name": "江西政府门户",
+      "url": "https://www.jiangxi.gov.cn/",
+      "department": "省级政府"
+    },
+    {
+      "region": "山东",
+      "name": "山东政府门户",
+      "url": "https://www.shandong.gov.cn/",
+      "department": "省级政府"
+    },
+    {
+      "region": "河南",
+      "name": "河南政府门户",
+      "url": "https://www.henan.gov.cn/",
+      "department": "省级政府"
+    },
+    {
+      "region": "湖北",
+      "name": "湖北政府门户",
+      "url": "https://www.hubei.gov.cn/",
+      "department": "省级政府"
+    },
+    {
+      "region": "湖南",
+      "name": "湖南政府门户",
+      "url": "https://www.hunan.gov.cn/",
+      "department": "省级政府"
+    },
+    {
+      "region": "广东",
+      "name": "广东政府门户",
+      "url": "https://www.gd.gov.cn/",
+      "department": "省级政府"
+    },
+    {
+      "region": "广西",
+      "name": "广西政府门户",
+      "url": "https://www.gxzf.gov.cn/",
+      "department": "省级政府"
+    },
+    {
+      "region": "海南",
+      "name": "海南政府门户",
+      "url": "https://www.hainan.gov.cn/",
+      "department": "省级政府"
+    },
+    {
+      "region": "重庆",
+      "name": "重庆政府门户",
+      "url": "https://www.cq.gov.cn/",
+      "department": "省级政府"
+    },
+    {
+      "region": "四川",
+      "name": "四川政府门户",
+      "url": "https://www.sc.gov.cn/",
+      "department": "省级政府"
+    },
+    {
+      "region": "贵州",
+      "name": "贵州政府门户",
+      "url": "https://www.guizhou.gov.cn/",
+      "department": "省级政府"
+    },
+    {
+      "region": "云南",
+      "name": "云南政府门户",
+      "url": "https://www.yn.gov.cn/",
+      "department": "省级政府"
+    },
+    {
+      "region": "西藏",
+      "name": "西藏政府门户",
+      "url": "https://www.xizang.gov.cn/",
+      "department": "省级政府"
+    },
+    {
+      "region": "陕西",
+      "name": "陕西政府门户",
+      "url": "https://www.shaanxi.gov.cn/",
+      "department": "省级政府"
+    },
+    {
+      "region": "甘肃",
+      "name": "甘肃政府门户",
+      "url": "https://www.gansu.gov.cn/",
+      "department": "省级政府"
+    },
+    {
+      "region": "青海",
+      "name": "青海政府门户",
+      "url": "https://www.qinghai.gov.cn/",
+      "department": "省级政府"
+    },
+    {
+      "region": "宁夏",
+      "name": "宁夏政府门户",
+      "url": "https://www.nx.gov.cn/",
+      "department": "省级政府"
+    },
+    {
+      "region": "新疆",
+      "name": "新疆政府门户",
+      "url": "https://www.xinjiang.gov.cn/",
+      "department": "省级政府"
+    }
+  ],
+  "extra": [
+    {
+      "region": "天津",
+      "department": "省级政府",
+      "name": "天津省级政府政策目录",
+      "url": "https://www.tj.gov.cn/zwgk/szfwj/"
+    },
+    {
+      "region": "西藏",
+      "department": "省级政府",
+      "name": "西藏省级政府政策目录",
+      "url": "https://www.xizang.gov.cn/zwgk/xxfb/zbwj/index.html"
+    },
+    {
+      "region": "湖南",
+      "department": "水利",
+      "name": "湖南水利政策目录",
+      "url": "https://slt.hunan.gov.cn/slt/xxgk/zcfg/zcfg_1/fl/newxxgklist.html"
+    }
+  ],
+  "departments": [
+    "省级政府",
+    "发展改革",
+    "水利",
+    "生态环境",
+    "自然资源",
+    "应急管理",
+    "农业农村"
+  ],
+  "seeds": [
+    {
+      "id": "water-law-2016",
+      "title": "中华人民共和国水法（2016年修正）",
+      "family": "中华人民共和国水法",
+      "issuer": "全国人大常委会",
+      "region": "全国",
+      "kind": "法律",
+      "published": "2016-07-02",
+      "effective": "2016-07-02",
+      "url": "https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/bgt/art/2023/art_5f12efc44ee64befb09e0f116b2a4296.html",
+      "source": "市场监管总局官方转载",
+      "verification": "人工核对官方历史文本",
+      "chapters": [
+        "总则",
+        "水资源规划",
+        "水资源开发利用",
+        "水资源、水域和水工程的保护",
+        "水资源配置和节约使用",
+        "水事纠纷处理与执法监督检查",
+        "法律责任",
+        "附则"
+      ],
+      "superseded_on": "2027-03-22"
+    },
+    {
+      "id": "water-law-2026",
+      "title": "中华人民共和国水法（2026年修订）",
+      "family": "中华人民共和国水法",
+      "issuer": "全国人大常委会",
+      "region": "全国",
+      "kind": "法律",
+      "published": "2026-11-06",
+      "effective": "2027-03-22",
+      "docno": "主席令第八十八号",
+      "url": "https://slt.ln.gov.cn/slt/zfxxgk/zc/fl/2026060309543337636/",
+      "source": "辽宁省水利厅官方转载",
+      "verification": "人工核对官方修订文本和公布信息",
+      "reference": "https://society.people.com.cn/n1/2026/1112/c1008-40832356.html",
+      "previous": "water-law-2016",
+      "chapters": [
+        "总则",
+        "水资源规划",
+        "水资源保护与开发、利用",
+        "水资源配置与节约使用",
+        "江河湖泊管理与保护",
+        "水工程建设与运行",
+        "水事纠纷处理与监督检查",
+        "法律责任",
+        "附则"
+      ]
+    },
+    {
+      "id": "tianjin-2026-repeal-4",
+      "title": "天津市人民政府办公厅关于修改和废止部分行政规范性文件的通知",
+      "issuer": "天津市人民政府办公厅",
+      "region": "天津",
+      "kind": "规范性文件",
+      "published": "2026-08-27",
+      "docno": "津政办规〔2026〕4号",
+      "url": "https://www.tj.gov.cn/zwgk/szfwj/tjsrmzfbgt/202608/t20260827_7359693.html",
+      "source": "天津政务网",
+      "verification": "人工核对官方原文",
+      "repeals": [
+        "津政办发〔2012〕1号",
+        "津政办发〔2017〕10号",
+        "津政办发〔2017〕49号"
+      ]
+    }
+  ],
+  "keywords": [
+    "水法",
+    "水资源",
+    "水利",
+    "水务",
+    "水网",
+    "水权",
+    "水库",
+    "水电",
+    "供水",
+    "节水",
+    "流域",
+    "河湖",
+    "生态流量",
+    "水源",
+    "水污染",
+    "生态补偿",
+    "生态保护",
+    "生态产品",
+    "自然资源",
+    "国土空间",
+    "耕地保护",
+    "地质灾害",
+    "防洪",
+    "防汛",
+    "抗旱",
+    "洪涝",
+    "内涝",
+    "灾害",
+    "应急",
+    "粮食安全",
+    "农业用水",
+    "灌溉",
+    "气候变化",
+    "韧性",
+    "湿地",
+    "地下水",
+    "水土保持",
+    "碳达峰",
+    "全面节约"
+  ],
+  "policy_terms": [
+    "法",
+    "条例",
+    "规定",
+    "办法",
+    "方案",
+    "意见",
+    "规划",
+    "通知",
+    "决定",
+    "细则",
+    "规程",
+    "标准",
+    "公告",
+    "批复",
+    "纲要",
+    "指引",
+    "目录",
+    "制度"
+  ],
+  "exclude": [
+    "新闻发布会",
+    "解读",
+    "答记者问",
+    "答复摘要",
+    "招标",
+    "采购",
+    "公示名单",
+    "招聘",
+    "人事任免",
+    "会议召开",
+    "工作动态"
+  ],
+  "directory_terms": [
+    "政策文件",
+    "政策法规",
+    "政府文件",
+    "政办文件",
+    "规范性文件",
+    "行政规范性文件",
+    "部门规章",
+    "行政法规",
+    "法定主动公开内容"
+  ]
+}

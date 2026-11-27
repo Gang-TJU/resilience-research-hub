@@ -6,7 +6,7 @@ on:
     - cron: '37 9 * * *'
   push:
     branches: [main]
-    paths: ['collect.py','sources.json','site/index.html','.github/workflows/daily-update.yml']
+    paths: ['collect.py','sources.json','policy.py','policy_sources.json','site/index.html','site/policy.html','.github/workflows/daily-update.yml']
 concurrency:
   group: research-hub-pages
   cancel-in-progress: false
@@ -23,12 +23,24 @@ jobs:
         run: |
           python3 -m py_compile collect.py
           python3 collect.py
+      - name: Collect independent public policy records
+        timeout-minutes: 12
+        run: |
+          if python3 -m py_compile policy.py && python3 policy.py; then
+            echo 'Policy archive refreshed'
+          elif test -f data/policy_archive.json; then
+            cp data/policy_archive.json site/policies.json
+            echo '::warning::Policy refresh failed; publishing previous archive'
+          else
+            echo '::warning::Policy refresh failed; no previous archive'
+          fi
       - name: Validate and archive
         run: |
           python3 -c "import json; d=json.load(open('data/archive.json')); assert len({x['id'] for x in d['items']})==len(d['items']); assert any(x['status']!='failed' for x in d['latest']['sources']), 'All sources failed'"
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add data/archive.json
+          if test -f data/policy_archive.json; then git add data/policy_archive.json; fi
           if ! git diff --cached --quiet; then git commit -m 'Update public research metadata'; git push; fi
       - uses: actions/upload-pages-artifact@v3
         with:
