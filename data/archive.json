@@ -9823,6 +9823,40 @@
       "matched_phrases": []
     },
     {
+      "id": "e7df78419d6fe52ff31626f6",
+      "type": "文献",
+      "source": "Scientific Data",
+      "title": "Homogenized monthly climate observations for Mexico with quantified uncertainty, 1961–2017",
+      "url": "https://doi.org/10.1038/s41597-026-08718-7",
+      "date": "2026-11-27",
+      "topics": [
+        "城市生态与气候健康"
+      ],
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27",
+      "metadata": {
+        "doi": "10.1038/s41597-026-08718-7",
+        "source_api": "Crossref",
+        "date_type": "published-online",
+        "online_date": "2026-11-27",
+        "issue_date": null,
+        "reported_date": "2026-11-27",
+        "future_date": false,
+        "authors": [
+          "E. Becerra-Acosta",
+          "A. I. Calvo",
+          "J. M. Polanco-Martinez",
+          "R. Fraile"
+        ],
+        "license_urls": [
+          "https://creativecommons.org/licenses/by-nc-nd/4.0",
+          "https://creativecommons.org/licenses/by-nc-nd/4.0"
+        ]
+      },
+      "relevance": 25,
+      "matched_phrases": []
+    },
+    {
       "id": "e73425751cea7474811d5356",
       "type": "文献",
       "source": "Water Research",
@@ -14973,6 +15007,40 @@
           "https://www.elsevier.com/legal/tdmrep-license",
           "http://creativecommons.org/licenses/by/4.0/"
         ]
+      },
+      "relevance": 25,
+      "matched_phrases": []
+    },
+    {
+      "id": "af395c762279fc362b1019f7",
+      "type": "文献",
+      "source": "Environmental Science & Technology",
+      "title": "Integrated Eco-Efficiency of Residential Cooling in Dengue-Prone Climates",
+      "url": "https://doi.org/10.1021/acs.est.5c15922",
+      "date": "2026-11-27",
+      "topics": [
+        "城市生态与气候健康"
+      ],
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27",
+      "metadata": {
+        "doi": "10.1021/acs.est.5c15922",
+        "source_api": "Crossref",
+        "date_type": "published-online",
+        "online_date": "2026-11-27",
+        "issue_date": null,
+        "reported_date": "2026-11-27",
+        "future_date": false,
+        "authors": [
+          "Venkata K. K. Upadhyayula",
+          "Etienne Z. Gnimpieba",
+          "Shiva Aryal",
+          "Mats Tysklind",
+          "Debraj Bhattacharyya",
+          "Jose E. Pietri",
+          "Venkataramana Gadhamshetty"
+        ],
+        "license_urls": []
       },
       "relevance": 25,
       "matched_phrases": []
@@ -43718,11 +43786,305 @@
         }
       ],
       "new": 0
+    },
+    {
+      "date": "2026-11-27",
+      "checked_at": "2026-11-27T03:38:43+00:00",
+      "sources": [
+        {
+          "source": "Nature",
+          "status": "ok",
+          "matched": 28,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "Science",
+          "status": "ok",
+          "matched": 11,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "Nature Water",
+          "status": "ok",
+          "matched": 4,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "Nature Sustainability",
+          "status": "ok",
+          "matched": 6,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "Nature Climate Change",
+          "status": "ok",
+          "matched": 11,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "Water Resources Research",
+          "status": "ok",
+          "matched": 27,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "Water Research",
+          "status": "ok",
+          "matched": 166,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "Journal of Hydrology",
+          "status": "ok",
+          "matched": 203,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "Hydrology and Earth System Sciences",
+          "status": "ok",
+          "matched": 12,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "Environmental Research Letters",
+          "status": "ok",
+          "matched": 48,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "Ecosystem Services",
+          "status": "ok",
+          "matched": 25,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "Journal of Environmental Management",
+          "status": "ok",
+          "matched": 148,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "Global Environmental Change",
+          "status": "ok",
+          "matched": 22,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "Scientific Data",
+          "status": "ok",
+          "matched": 23,
+          "new": 1,
+          "note": ""
+        },
+        {
+          "source": "Nature Communications",
+          "status": "ok",
+          "matched": 30,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "Science Advances",
+          "status": "ok",
+          "matched": 15,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "PNAS",
+          "status": "ok",
+          "matched": 22,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "Landscape and Urban Planning",
+          "status": "ok",
+          "matched": 66,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "Environmental Science & Technology",
+          "status": "ok",
+          "matched": 41,
+          "new": 1,
+          "note": ""
+        },
+        {
+          "source": "Nature Geoscience",
+          "status": "ok",
+          "matched": 3,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "Earth System Science Data",
+          "status": "ok",
+          "matched": 9,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "Ecological Economics",
+          "status": "ok",
+          "matched": 77,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "Natural Hazards",
+          "status": "ok",
+          "matched": 33,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "生态环境部政策文件",
+          "status": "ok",
+          "matched": 9,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "北京市政府转载国务院文件",
+          "status": "ok",
+          "matched": 6,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "生态环境部新闻发布",
+          "status": "ok",
+          "matched": 51,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "应急管理部通知公告",
+          "status": "warning",
+          "matched": 0,
+          "new": 0,
+          "note": "未匹配到相关条目；可能是页面结构变化或无相关内容"
+        },
+        {
+          "source": "应急管理部新闻发布会",
+          "status": "warning",
+          "matched": 0,
+          "new": 0,
+          "note": "未匹配到相关条目；可能是页面结构变化或无相关内容"
+        },
+        {
+          "source": "国家发展改革委政策发布",
+          "status": "failed",
+          "matched": 0,
+          "new": 0,
+          "note": "HTTP Error 403: Forbidden"
+        },
+        {
+          "source": "水利部水利要闻（待验证）",
+          "status": "failed",
+          "matched": 0,
+          "new": 0,
+          "note": "<urlopen error [Errno 101] Network is unreachable>"
+        },
+        {
+          "source": "生态环境部中央有关文件",
+          "status": "ok",
+          "matched": 3,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "NASA MOD13Q1",
+          "status": "ok",
+          "matched": 1,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "NASA MYD13Q1",
+          "status": "ok",
+          "matched": 1,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "NASA MCD12Q1",
+          "status": "ok",
+          "matched": 1,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "NASA MOD11A2",
+          "status": "ok",
+          "matched": 1,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "NASA GPM_3IMERGDF",
+          "status": "ok",
+          "matched": 1,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "NASA MOD10A1",
+          "status": "ok",
+          "matched": 2,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "NASA MOD16A2",
+          "status": "ok",
+          "matched": 1,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "NASA MOD17A2H",
+          "status": "ok",
+          "matched": 1,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "NASA MOD09A1",
+          "status": "ok",
+          "matched": 1,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "NASA SPL3SMP",
+          "status": "ok",
+          "matched": 1,
+          "new": 0,
+          "note": ""
+        }
+      ],
+      "new": 2
     }
   ],
   "latest": {
     "date": "2026-11-27",
-    "checked_at": "2026-11-27T00:01:37+00:00",
+    "checked_at": "2026-11-27T03:38:43+00:00",
     "sources": [
       {
         "source": "Nature",
@@ -43818,8 +44180,8 @@
       {
         "source": "Scientific Data",
         "status": "ok",
-        "matched": 22,
-        "new": 0,
+        "matched": 23,
+        "new": 1,
         "note": ""
       },
       {
@@ -43853,8 +44215,8 @@
       {
         "source": "Environmental Science & Technology",
         "status": "ok",
-        "matched": 40,
-        "new": 0,
+        "matched": 41,
+        "new": 1,
         "note": ""
       },
       {
@@ -44012,7 +44374,7 @@
         "note": ""
       }
     ],
-    "new": 0
+    "new": 2
   },
   "method": "题名关键词筛选和规则相关性评分（不是学术质量评分）；非AI导读；日期与来源范围见元数据。"
 }
