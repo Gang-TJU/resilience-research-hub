@@ -122,6 +122,39 @@
       ]
     },
     {
+      "id": "944ada25aecc18e5a11daae3",
+      "type": "文献",
+      "source": "Science Advances",
+      "title": "Spectral dynamics reservoir computing: High-performance neuromorphic computation from coarse spectra",
+      "url": "https://doi.org/10.1126/sciadv.aei3204",
+      "date": "2026-11-27",
+      "topics": [
+        "重大水工程与生态韧性"
+      ],
+      "first_seen": "2026-11-28",
+      "last_seen": "2026-11-28",
+      "metadata": {
+        "doi": "10.1126/sciadv.aei3204",
+        "source_api": "Crossref",
+        "date_type": "published",
+        "online_date": null,
+        "issue_date": "2026-11-27",
+        "reported_date": "2026-11-27",
+        "future_date": false,
+        "authors": [
+          "Jiaxuan Chen",
+          "Ryo Iguchi",
+          "Sota Hikasa",
+          "Takashi Tsuchiya"
+        ],
+        "license_urls": []
+      },
+      "relevance": 40,
+      "matched_phrases": [
+        "reservoir"
+      ]
+    },
+    {
       "id": "6070495900ac062d7fdd798c",
       "type": "文献",
       "source": "Water Resources Research",
@@ -321,6 +354,43 @@
       "matched_phrases": []
     },
     {
+      "id": "cf72846d1d3543484a1b4ab9",
+      "type": "文献",
+      "source": "Global Environmental Change",
+      "title": "Symbolic compliance or substantive reduction? Effects of board governance and institutional quality on environmental performance in the G20",
+      "url": "https://doi.org/10.1016/j.gloenvcha.2026.103247",
+      "date": "2026-12",
+      "topics": [
+        "公共资源与治理"
+      ],
+      "first_seen": "2026-11-28",
+      "last_seen": "2026-11-28",
+      "metadata": {
+        "doi": "10.1016/j.gloenvcha.2026.103247",
+        "source_api": "Crossref",
+        "date_type": "published",
+        "online_date": null,
+        "issue_date": "2026-12",
+        "reported_date": "2026-12",
+        "future_date": true,
+        "authors": [
+          "Sumit Kumar Maji",
+          "Apalak Khatua"
+        ],
+        "license_urls": [
+          "https://www.elsevier.com/tdm/userlicense/1.0/",
+          "https://www.elsevier.com/legal/tdmrep-license",
+          "https://doi.org/10.15223/policy-017",
+          "https://doi.org/10.15223/policy-037",
+          "https://doi.org/10.15223/policy-012",
+          "https://doi.org/10.15223/policy-029",
+          "https://doi.org/10.15223/policy-004"
+        ]
+      },
+      "relevance": 25,
+      "matched_phrases": []
+    },
+    {
       "id": "c51381594e3e77b50f7b99ba",
       "type": "文献",
       "source": "Natural Hazards",
@@ -376,6 +446,38 @@
       "matched_phrases": []
     },
     {
+      "id": "b9157f50394119fbf8532e08",
+      "type": "文献",
+      "source": "Science Advances",
+      "title": "Future warming reduces the buffering of preceding wet years on La Niña droughts in the US Southwest",
+      "url": "https://doi.org/10.1126/sciadv.aeh6977",
+      "date": "2026-11-27",
+      "topics": [
+        "自然灾害风险治理"
+      ],
+      "first_seen": "2026-11-28",
+      "last_seen": "2026-11-28",
+      "metadata": {
+        "doi": "10.1126/sciadv.aeh6977",
+        "source_api": "Crossref",
+        "date_type": "published",
+        "online_date": null,
+        "issue_date": "2026-11-27",
+        "reported_date": "2026-11-27",
+        "future_date": false,
+        "authors": [
+          "Yelin Jiang",
+          "Jason E. Smerdon",
+          "Richard Seager",
+          "Benjamin I. Cook",
+          "Mingfang Ting"
+        ],
+        "license_urls": []
+      },
+      "relevance": 25,
+      "matched_phrases": []
+    },
+    {
       "id": "a0fd294328e4eb019470b5c9",
       "type": "新闻",
       "source": "生态环境部新闻发布",
@@ -389,6 +491,25 @@
       "last_seen": "2026-11-28",
       "metadata": {
         "url_date_hint": "2026-11-27",
+        "date_type": "URL日期线索，非核实发布日期"
+      },
+      "relevance": 25,
+      "matched_phrases": []
+    },
+    {
+      "id": "9f1666dc53055996af4babd9",
+      "type": "新闻",
+      "source": "生态环境部新闻发布",
+      "title": "生态环境部党组召开会议",
+      "url": "https://www.mee.gov.cn/ywdt/hjywnews/202611/t20261128_1187709.shtml",
+      "date": null,
+      "topics": [
+        "生态系统服务与价值实现"
+      ],
+      "first_seen": "2026-11-28",
+      "last_seen": "2026-11-28",
+      "metadata": {
+        "url_date_hint": "2026-11-28",
         "date_type": "URL日期线索，非核实发布日期"
       },
       "relevance": 25,
@@ -556,6 +677,71 @@
           "https://creativecommons.org/licenses/by/4.0",
           "https://creativecommons.org/licenses/by/4.0"
         ]
+      },
+      "relevance": 25,
+      "matched_phrases": []
+    },
+    {
+      "id": "25b24ddf0b08e0d7997f6b60",
+      "type": "文献",
+      "source": "Science Advances",
+      "title": "Meridional ocean temperature gradient drives climate stability in the Late Ordovician",
+      "url": "https://doi.org/10.1126/sciadv.aej0478",
+      "date": "2026-11-27",
+      "topics": [
+        "城市生态与气候健康"
+      ],
+      "first_seen": "2026-11-28",
+      "last_seen": "2026-11-28",
+      "metadata": {
+        "doi": "10.1126/sciadv.aej0478",
+        "source_api": "Crossref",
+        "date_type": "published",
+        "online_date": null,
+        "issue_date": "2026-11-27",
+        "reported_date": "2026-11-27",
+        "future_date": false,
+        "authors": [
+          "Joseph Naar",
+          "Yannick Donnadieu",
+          "Alexandre Pohl",
+          "Guillaume Le Hir",
+          "Jean-Baptiste Ladant",
+          "Daniel J. Lunt"
+        ],
+        "license_urls": []
+      },
+      "relevance": 25,
+      "matched_phrases": []
+    },
+    {
+      "id": "2311ceea99b8c571050a9c14",
+      "type": "文献",
+      "source": "Science Advances",
+      "title": "Sinking cities: Latent flood risk in Africa’s coastal megacities",
+      "url": "https://doi.org/10.1126/sciadv.aeh6538",
+      "date": "2026-11-27",
+      "topics": [
+        "自然灾害风险治理"
+      ],
+      "first_seen": "2026-11-28",
+      "last_seen": "2026-11-28",
+      "metadata": {
+        "doi": "10.1126/sciadv.aeh6538",
+        "source_api": "Crossref",
+        "date_type": "published",
+        "online_date": null,
+        "issue_date": "2026-11-27",
+        "reported_date": "2026-11-27",
+        "future_date": false,
+        "authors": [
+          "Oluwaseyi A. Dasho",
+          "Manoochehr Shirzaei",
+          "Leonard O. Ohenhen",
+          "Sonam Futi Sherpa",
+          "Rafael Almar"
+        ],
+        "license_urls": []
       },
       "relevance": 25,
       "matched_phrases": []
@@ -3440,7 +3626,7 @@
       "source": "Journal of Hydrology",
       "title": "A DeepSF framework for LSTM-based dynamic scaling of conceptual runoff responses in streamflow simulation",
       "url": "https://doi.org/10.1016/j.jhydrol.2026.136866",
-      "date": "2026-11",
+      "date": "2027-02",
       "topics": [
         "重大水工程与生态韧性"
       ],
@@ -3451,9 +3637,9 @@
         "source_api": "Crossref",
         "date_type": "published",
         "online_date": null,
-        "issue_date": "2026-11",
-        "reported_date": "2026-11",
-        "future_date": false,
+        "issue_date": "2027-02",
+        "reported_date": "2027-02",
+        "future_date": true,
         "authors": [
           "Yunji Li",
           "Aili Yang",
@@ -28417,7 +28603,7 @@
       "source": "Journal of Hydrology",
       "title": "Extreme precipitation reshapes nitrate sources and transport in mountainous river‑groundwater systems: Insights from multi-tracer tracing",
       "url": "https://doi.org/10.1016/j.jhydrol.2026.136885",
-      "date": "2026-11",
+      "date": "2027-02",
       "topics": [
         "水—能源—粮食协同安全"
       ],
@@ -28428,9 +28614,9 @@
         "source_api": "Crossref",
         "date_type": "published",
         "online_date": null,
-        "issue_date": "2026-11",
-        "reported_date": "2026-11",
-        "future_date": false,
+        "issue_date": "2027-02",
+        "reported_date": "2027-02",
+        "future_date": true,
         "authors": [
           "Xiaole Kong",
           "Yuru Chang",
@@ -45074,16 +45260,310 @@
         }
       ],
       "new": 21
+    },
+    {
+      "date": "2026-11-28",
+      "checked_at": "2026-11-28T03:19:20+00:00",
+      "sources": [
+        {
+          "source": "Nature",
+          "status": "ok",
+          "matched": 26,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "Science",
+          "status": "ok",
+          "matched": 11,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "Nature Water",
+          "status": "ok",
+          "matched": 4,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "Nature Sustainability",
+          "status": "ok",
+          "matched": 5,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "Nature Climate Change",
+          "status": "ok",
+          "matched": 11,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "Water Resources Research",
+          "status": "ok",
+          "matched": 30,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "Water Research",
+          "status": "ok",
+          "matched": 167,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "Journal of Hydrology",
+          "status": "ok",
+          "matched": 204,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "Hydrology and Earth System Sciences",
+          "status": "ok",
+          "matched": 14,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "Environmental Research Letters",
+          "status": "ok",
+          "matched": 47,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "Ecosystem Services",
+          "status": "ok",
+          "matched": 25,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "Journal of Environmental Management",
+          "status": "ok",
+          "matched": 150,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "Global Environmental Change",
+          "status": "ok",
+          "matched": 23,
+          "new": 1,
+          "note": ""
+        },
+        {
+          "source": "Scientific Data",
+          "status": "ok",
+          "matched": 23,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "Nature Communications",
+          "status": "ok",
+          "matched": 29,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "Science Advances",
+          "status": "ok",
+          "matched": 19,
+          "new": 4,
+          "note": ""
+        },
+        {
+          "source": "PNAS",
+          "status": "ok",
+          "matched": 21,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "Landscape and Urban Planning",
+          "status": "ok",
+          "matched": 66,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "Environmental Science & Technology",
+          "status": "ok",
+          "matched": 43,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "Nature Geoscience",
+          "status": "ok",
+          "matched": 2,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "Earth System Science Data",
+          "status": "ok",
+          "matched": 9,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "Ecological Economics",
+          "status": "ok",
+          "matched": 77,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "Natural Hazards",
+          "status": "ok",
+          "matched": 36,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "生态环境部政策文件",
+          "status": "ok",
+          "matched": 9,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "北京市政府转载国务院文件",
+          "status": "ok",
+          "matched": 6,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "生态环境部新闻发布",
+          "status": "ok",
+          "matched": 49,
+          "new": 1,
+          "note": ""
+        },
+        {
+          "source": "应急管理部通知公告",
+          "status": "warning",
+          "matched": 0,
+          "new": 0,
+          "note": "未匹配到相关条目；可能是页面结构变化或无相关内容"
+        },
+        {
+          "source": "应急管理部新闻发布会",
+          "status": "warning",
+          "matched": 0,
+          "new": 0,
+          "note": "未匹配到相关条目；可能是页面结构变化或无相关内容"
+        },
+        {
+          "source": "国家发展改革委政策发布",
+          "status": "failed",
+          "matched": 0,
+          "new": 0,
+          "note": "HTTP Error 403: Forbidden"
+        },
+        {
+          "source": "水利部水利要闻（待验证）",
+          "status": "failed",
+          "matched": 0,
+          "new": 0,
+          "note": "<urlopen error [Errno 101] Network is unreachable>"
+        },
+        {
+          "source": "生态环境部中央有关文件",
+          "status": "ok",
+          "matched": 3,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "NASA MOD13Q1",
+          "status": "ok",
+          "matched": 1,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "NASA MYD13Q1",
+          "status": "ok",
+          "matched": 1,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "NASA MCD12Q1",
+          "status": "ok",
+          "matched": 1,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "NASA MOD11A2",
+          "status": "ok",
+          "matched": 1,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "NASA GPM_3IMERGDF",
+          "status": "ok",
+          "matched": 1,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "NASA MOD10A1",
+          "status": "ok",
+          "matched": 2,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "NASA MOD16A2",
+          "status": "ok",
+          "matched": 1,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "NASA MOD17A2H",
+          "status": "ok",
+          "matched": 1,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "NASA MOD09A1",
+          "status": "ok",
+          "matched": 1,
+          "new": 0,
+          "note": ""
+        },
+        {
+          "source": "NASA SPL3SMP",
+          "status": "ok",
+          "matched": 1,
+          "new": 0,
+          "note": ""
+        }
+      ],
+      "new": 6
     }
   ],
   "latest": {
     "date": "2026-11-28",
-    "checked_at": "2026-11-27T19:08:38+00:00",
+    "checked_at": "2026-11-28T03:19:20+00:00",
     "sources": [
       {
         "source": "Nature",
         "status": "ok",
-        "matched": 28,
+        "matched": 26,
         "new": 0,
         "note": ""
       },
@@ -45104,50 +45584,50 @@
       {
         "source": "Nature Sustainability",
         "status": "ok",
-        "matched": 6,
+        "matched": 5,
         "new": 0,
         "note": ""
       },
       {
         "source": "Nature Climate Change",
         "status": "ok",
-        "matched": 12,
-        "new": 1,
+        "matched": 11,
+        "new": 0,
         "note": ""
       },
       {
         "source": "Water Resources Research",
         "status": "ok",
         "matched": 30,
-        "new": 3,
+        "new": 0,
         "note": ""
       },
       {
         "source": "Water Research",
         "status": "ok",
         "matched": 167,
-        "new": 1,
+        "new": 0,
         "note": ""
       },
       {
         "source": "Journal of Hydrology",
         "status": "ok",
         "matched": 204,
-        "new": 1,
+        "new": 0,
         "note": ""
       },
       {
         "source": "Hydrology and Earth System Sciences",
         "status": "ok",
         "matched": 14,
-        "new": 2,
+        "new": 0,
         "note": ""
       },
       {
         "source": "Environmental Research Letters",
         "status": "ok",
-        "matched": 50,
-        "new": 2,
+        "matched": 47,
+        "new": 0,
         "note": ""
       },
       {
@@ -45161,14 +45641,14 @@
         "source": "Journal of Environmental Management",
         "status": "ok",
         "matched": 150,
-        "new": 2,
+        "new": 0,
         "note": ""
       },
       {
         "source": "Global Environmental Change",
         "status": "ok",
-        "matched": 22,
-        "new": 0,
+        "matched": 23,
+        "new": 1,
         "note": ""
       },
       {
@@ -45181,21 +45661,21 @@
       {
         "source": "Nature Communications",
         "status": "ok",
-        "matched": 30,
+        "matched": 29,
         "new": 0,
         "note": ""
       },
       {
         "source": "Science Advances",
         "status": "ok",
-        "matched": 15,
-        "new": 0,
+        "matched": 19,
+        "new": 4,
         "note": ""
       },
       {
         "source": "PNAS",
         "status": "ok",
-        "matched": 22,
+        "matched": 21,
         "new": 0,
         "note": ""
       },
@@ -45210,13 +45690,13 @@
         "source": "Environmental Science & Technology",
         "status": "ok",
         "matched": 43,
-        "new": 2,
+        "new": 0,
         "note": ""
       },
       {
         "source": "Nature Geoscience",
         "status": "ok",
-        "matched": 3,
+        "matched": 2,
         "new": 0,
         "note": ""
       },
@@ -45238,7 +45718,7 @@
         "source": "Natural Hazards",
         "status": "ok",
         "matched": 36,
-        "new": 3,
+        "new": 0,
         "note": ""
       },
       {
@@ -45259,7 +45739,7 @@
         "source": "生态环境部新闻发布",
         "status": "ok",
         "matched": 49,
-        "new": 4,
+        "new": 1,
         "note": ""
       },
       {
@@ -45368,7 +45848,7 @@
         "note": ""
       }
     ],
-    "new": 21
+    "new": 6
   },
   "method": "题名关键词筛选和规则相关性评分（不是学术质量评分）；非AI导读；日期与来源范围见元数据。"
 }
